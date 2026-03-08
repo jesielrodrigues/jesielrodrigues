@@ -1,4 +1,7 @@
-<h1 align="left">Prazer, Jesiel Rodrigues 👋</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=f5f5f5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Jesiel+Rodrigues;Estudante+de+Ciência+da+Computação;Designer+Gráfico;Apaixonado+por+Tecnologia+e+Programação;Bem-vindo+ao+meu+GitHub!">
+</p>
 
 <p align="left">
 💻 Estudante de Ciência da Computação - P1 <br>
@@ -38,6 +41,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 
 ---
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jesielrodrigues&theme=onedark" />
+
+</div>
 
 ⭐ Sempre aprendendo algo novo em tecnologia.
+
