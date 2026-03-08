@@ -1,5 +1,3 @@
-#Sobre mim 
-
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=f5f5f5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Jesiel+Rodrigues;Estudante+de+Ciência+da+Computação;Designer+Gráfico;Apaixonado+por+Tecnologia+e+Programação;Bem-vindo+ao+meu+GitHub!">
