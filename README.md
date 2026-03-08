@@ -49,3 +49,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 
 ⭐ Sempre aprendendo algo novo em tecnologia.
 
+![Snake animation] https://github.com/jesielrodrigues
+
