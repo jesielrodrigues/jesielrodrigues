@@ -1,5 +1,3 @@
-## Prazer, Jesiel Rodrigues 👋
-
 <h1 align="left">Prazer, Jesiel Rodrigues 👋</h1>
 
 <p align="left">
