@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Generate Snake
 
 on:
   schedule:
@@ -7,12 +7,10 @@ on:
 
 jobs:
   build:
-    name: Jobs to update datas
     runs-on: ubuntu-latest
-    steps:
 
+    steps:
       - uses: Platane/snk@master
-        id: snake-gif
         with:
           github_user_name: jesielrodrigues
           svg_out_path: dist/github-contribution-grid-snake.svg
