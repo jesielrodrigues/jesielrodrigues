@@ -49,6 +49,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 
 ⭐ Sempre aprendendo algo novo em tecnologia.
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/jesielrodrigues/jesielrodrigues/output/github-contribution-grid-snake.svg">
-</p>
