@@ -3,7 +3,6 @@
 <p align="left">
 💻 Estudante de Ciência da Computação - P1 <br>
 🖼️ Graphic Designer
-  
 🚀 Interessado em programação, tecnologia e desenvolvimento de software
 </p>
 
