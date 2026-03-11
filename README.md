@@ -39,13 +39,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 </a>
 </div>
 
----
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jesielrodrigues&theme=onedark" />
-
-</div>
-
-⭐ Sempre aprendendo algo novo em tecnologia.
 
