@@ -4,7 +4,7 @@
 </p>
 
 <p align="left">
-💻 Estudante de Ciência da Computação - P1 <br>
+💻 Estudante de Ciência da Computação  <br>
 🖼️ Graphic Designer <br>
 🚀 Interessado em programação, tecnologia e desenvolvimento de software
 </p>
