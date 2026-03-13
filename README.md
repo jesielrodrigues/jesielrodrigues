@@ -6,7 +6,7 @@
 <p align="left">
 💻 Estudante de Ciência da Computação  <br>
 🖼️ Graphic Designer <br>
-🚀 Interessado em programação, tecnologia e desenvolvimento de software
+🚀 Interessado em programação e tecnologia
 </p>
 
 ---
